@@ -3,7 +3,7 @@ Bem-vindo(a) candidato(a).
 
 Este teste é dividido em duas etapas, a primeira é um teste lógico aonde iremos analisar o seu modo de pensar e como você lida com problemas abstratos. Os códigos dessa etapa devem ser feitos em `Javascript`, e não se esqueça de documentar todo o processo de cada resposta.
 
-Para iniciar o teste você pode clonar o repositório, e no prazo de dois dias enviar os arquivos em formato ".zip"  (pode hospedar na nuvem e enviar o link, enviar por anexo, etc.) para o e-mail `selecao@agenciamodular.com.br` com o assunto **Processo Seletivo Modular**, assim como o link para o `Github Pages `(mais informações no tópico layout).
+Para iniciar o teste você pode clonar o repositório, e no prazo de dois dias enviar os arquivos em formato ".zip"  (pode hospedar na nuvem e enviar o link, enviar por anexo, etc.) para o e-mail `selecao@agenciamodular.com.br` com o assunto **Processo Seletivo Modular**, assim como o link para o `Github Pages` (mais informações no tópico layout).
 
 ## Teste lógico
 No repositório existem 3 (três) arquivos já nomeados para você realizar os seus algoritmos.
@@ -35,7 +35,7 @@ No repositório existem 3 (três) arquivos já nomeados para você realizar os s
 Essa é a segunda etapa do teste onde iremos analisar o ~~seu perfeccionismo~~ "perfect pixel" e de como você constrói os seus layouts.
 
 Requisitos:
-- O layout que você vai utilizar é este: [Layout Figma](https://www.figma.com/file/3RqPfS5PW9whbQNCTTaoqA/%5B2020-09%5D-MZ---Layout-Teste-de-vagas-para-time-de-Devs). **Atenção:** Para poder visualizar corretamente o Figma, faça login na ferramenta. Caso acesse o link sem logar, não poderá ver espaçamento, cores, etc.;
+- O layout que você vai utilizar é este: [Layout Figma](https://www.figma.com/file/Fo1Cib6EtEagHkTzVMT8z8/%5BMODULAR%5D-Teste-T%C3%A9cnico-Desenvolvimento?node-id=103%3A2). **Atenção:** Para poder visualizar corretamente o Figma, faça login na ferramenta. Caso acesse o link sem logar, não poderá ver espaçamento, cores, etc.;
 - Você pode utilizar qualquer framework ou library que você preferir;
 - A sua página deve ser hospedada no [Github Pages](https://pages.github.com/) e o link deve ser enviado no e-mail;
 - Estruture os seus arquivos em uma pasta chamada **layout** e se possível crie um *README*.
